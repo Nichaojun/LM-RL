@@ -11,6 +11,34 @@
 
 :three: [Pytorch](https://pytorch.org/get-started/locally/)
 
+# Performance
+| Algorithm | Target Point | Avg. Dist | Var. Dist | Avg. Time | Var. Time | Success Rate |
+|-----------|--------------|-----------|-----------|-----------|-----------|--------------|
+|           | 1st          | -         | -         | -         | -         | -            |
+| DDPG      | 2nd          | -         | -         | -         | -         | -            |
+|           | 3rd          | -         | -         | -         | -         | -            |
+|           | 1st          | -         | -         | -         | -         | -            |
+| DQN       | 2nd          | -         | -         | -         | -         | -            |
+|           | 3rd          | -         | -         | -         | -         | -            |
+|           | 1st          | -         | -         | -         | -         | -            |
+| Multimodal| 2nd          | -         | -         | -         | -         | -            |
+|           | 3rd          | -         | -         | -         | -         | -            |
+|           | 1st          | -         | -         | -         | -         | -            |
+| GLI       | 2nd          | -         | -         | -         | -         | -            |
+|           | 3rd          | -         | -         | -         | -         | -            |
+|           | 1st          | -         | -         | -         | -         | -            |
+| PPO       | 2nd          | -         | -         | -         | -         | -            |
+|           | 3rd          | -         | -         | -         | -         | -            |
+|           | 1st          | -         | -         | -         | -         | -            |
+| SAC       | 2nd          | -         | -         | -         | -         | -            |
+|           | 3rd          | -         | -         | -         | -         | -            |
+|           | 1st          | -         | -         | -         | -         | -            |
+| TD3       | 2nd          | -         | -         | -         | -         | -            |
+|           | 3rd          | -         | -         | -         | -         | -            |
+|           | 1st          | -         | -         | -         | -         | -            |
+| TD3-GRU   | 2nd          | -         | -         | -         | -         | -            |
+|           | 3rd          | -         | -         | -         | -         | -            |
+
 # User Guidance
 ## Create a new Virtual environment (conda is suggested).
 Specify your own name for the virtual environment, e.g., gtrl:
