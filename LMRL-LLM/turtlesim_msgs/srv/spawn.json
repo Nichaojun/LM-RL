@@ -1,0 +1,43 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "service": {
+            "type": "string",
+            "default": "/spawn"
+        },
+        "args": {
+            "type": "object",
+            "properties": {
+                "x": {
+                    "type": "number",
+                    "min": 0,
+                    "max": 10
+                },
+                "y": {
+                    "type": "number",
+                    "min": 0,
+                    "max": 10
+                },
+                "theta": {
+                    "type": "number",
+                    "min": -3.14,
+                    "max": 3.14
+                },
+                "name": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "x",
+                "y",
+                "theta",
+                "name"
+            ]
+        }
+    },
+    "required": [
+        "service",
+        "args"
+    ]
+}
