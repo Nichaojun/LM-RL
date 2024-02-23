@@ -32,16 +32,23 @@
 
 
 
-## ✨Datasets and Models
-| Datasets and Models                            | Links                                              |
-|-----------------------------------------------|----------------------------------------------------|
-| **Datasets in dark conditions**               | [dark](http://host.robots.ox.ac.uk/pascal/VOC/)   |
-|                                               |                                                    |
-| **Datasets under dense fog conditions**       | [fog](http://host.robots.ox.ac.uk/pascal/VOC/)    |
-|                                               |                                                    |
-| **DIOR remote sensing dataset**               | [DIOR](http://host.robots.ox.ac.uk/pascal/VOC/)   |
-|                                               |                                                    |
-| **DIOR remote sensing dataset with fog**      | [DIOR-FOG](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset) |
+## ✨Weights for RL
+| Weights                                      | Links                                              |
+|--------------------------------------------- |----------------------------------------------------|
+| **DQN**                                      | [DQN](http://host.robots.ox.ac.uk/pascal/VOC/)    |
+|                                              |                                                    |
+| **DDPG**                                     | [DDPG](http://host.robots.ox.ac.uk/pascal/VOC/)   |
+|                                              |                                                    |
+| **PPO**                                      | [PPO](http://host.robots.ox.ac.uk/pascal/VOC/)    |
+|                                              |                                                    |
+| **SAC**                                      | [SAC](http://host.robots.ox.ac.uk/pascal/VOC/)    |
+|                                              |                                                    |
+| **GTRL**                                     | [GTRL](http://host.robots.ox.ac.uk/pascal/VOC/)   |
+|                                              |                                                    |
+| **Multimodal CLI**                           | [Multimodal CLI](http://host.robots.ox.ac.uk/pascal/VOC/) |
+|                                              |                                                    |
+| **GDAE**                                     | [GDAE](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset) |
+
 
 
 ## 👀Problems and Visualization
