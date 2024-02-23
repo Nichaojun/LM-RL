@@ -3,14 +3,14 @@
 
 
 ## 📆✅Update
-| Date       | Updates                                                                                                                       | Bug Fixes  | Address  |
-|------------|-------------------------------------------------------------------------------------------------------------------------------|------------|----------|
-| 2023-12-01 | Implemented DQN, DDPG, SAC, TD3.                                                                                              |            | LMRL-RL  |
-| 2024-01-12 | Implemented Multidomol-GIL, PPO, and TD3-GRU algorithms.                                                                      |            | LMRL-RL  |
-| 2024-01-14 | Added multiple test scenarios, including one with complex pedestrian movements and multiple scenarios with complex obstacles. |            | LMRL-RL  |
-| 2024-01-20 | Completed testing for some algorithms in GAZEBO, added to README.                                                             |            |          |
-| 2024-01-24 | Added ChatGPT interface in ROS, implemented demo controlling a turtle with ChatGPT.                                           |            |          |
-| 2024-01-27 | Added interfaces for basic vision models in ROS, such as SAM, FastSAM, CaptionAnything, and YOLO.                             |            |          |
+| Date       | Updates                                                                                                                         | Address |
+|------------|---------------------------------------------------------------------------------------------------------------------------------|---------|
+| 2023-12-01 | Implemented DQN, DDPG, SAC, TD3.                                                                                                | LMRL-RL |
+| 2024-01-12 | Implemented Multidomol-GIL, PPO, and TD3-GRU algorithms.                                                                        | LMRL-RL |
+| 2024-01-14 | Added multiple test scenarios, including one with complex pedestrian movements and multiple scenarios with complex obstacles.   | Env     |
+| 2024-01-20 | Completed testing for some algorithms in GAZEBO, added to README.                                                               | README  |
+| 2024-01-24 | Added ChatGPT interface in ROS, implemented demo controlling a turtle with ChatGPT.                                             | LLM     |
+| 2024-01-27 | Added interfaces for basic vision models in ROS, such as SAM, FastSAM, CaptionAnything, and YOLO.                               | VFM     |
 
 
 ## 📆✅Future Plan
