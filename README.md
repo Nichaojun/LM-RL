@@ -64,3 +64,41 @@ Move turtle1 left by 2, then rotate 180 degrees, and move back to (5, 5). Finall
 | ![space-1.jpg](https://github.com/Nichaojun/LM-RL/blob/main/LMRL-picture/4t4.png)                                                                                                                             |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *RGB images from the fisheye camera stacked for the most recent four frames. The top pair of figures show the raw RGB images, whereas those on the bottom display the images after being processed by SAM* |
+
+
+## 🚀 Quickstart Guide
+Follow the instructions below to set up:
+**1. Clone the Repository:**
+Use the command below to clone the repository.
+```bash
+git clone https://github.com/Auromix/ROS-LLM.git
+```
+**2. Install Dependencies:**
+```bash
+bash dependencies_install.sh
+```
+**3. Configure OpenAI Settings:**
+If you don't have an OpenAI API key, you can obtain one from [OpenAI Platform](https://platform.openai.com). Use the script below to configure your OpenAI API key.
+```bash
+bash config_openai_api_key.sh
+```
+
+**4. Configure OpenAI Whisper Settings (Optional):**
+```bash
+pip install -U openai-whisper
+pip install setuptools-rust
+```
+
+**5. Build the Workspace:**
+Navigate to your workspace directory and build the workspace.
+```bash
+cd <your_ws>
+rosdep install --from-paths src --ignore-src -r -y  # Install dependencies
+colcon build --symlink-install
+```
+
+**6. Run the Demo:**
+```bash
+source LM-RL/LMRL-LLM/
+python test/test_json_schema.py
+```
