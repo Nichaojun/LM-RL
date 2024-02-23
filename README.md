@@ -55,9 +55,9 @@ Move turtle1 left by 2, then rotate 180 degrees, and move back to (5, 5). Finall
 
 ## 👀Demo for Segment anything model
 
-|    ![space-1.jpg](https://github.com/Nichaojun/Feature-Adaptive-YOLO/blob/master/picture/1.1.png)      |
-|:-----|
-|   *Fig. 1. Algorithm framework diagram of FA-YOLO.*    |
+| ![space-1.jpg](https://github.com/Nichaojun/LM-RL/blob/master/picture/4t4.png)                                                                                                                             |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *RGB images from the fisheye camera stacked for the most recent four frames. The top pair of figures show the raw RGB images, whereas those on the bottom display the images after being processed by SAM* |
 
 
 ## ⏳AFM and DG-Head

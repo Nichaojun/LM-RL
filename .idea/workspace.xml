@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed95ae1-2c6f-4247-8bc3-c95b654327e2" name="Changes" comment="" />
+    <list default="true" id="aed95ae1-2c6f-4247-8bc3-c95b654327e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,11 +34,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Administrator/Documents/11/LMRL"
+    "last_opened_file_path": "C:/Users/Administrator/Documents/11/LMRL/LMRL-picture"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\11\LMRL\LMRL-picture" />
       <recent name="C:\Users\Administrator\Documents\11\LMRL" />
     </key>
   </component>
@@ -54,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708686473736</updated>
-      <workItem from="1708686474973" duration="645000" />
+      <workItem from="1708686474973" duration="1204000" />
     </task>
     <servers />
   </component>
