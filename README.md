@@ -71,16 +71,16 @@ Follow the instructions below to set up:
 **1. Clone the Repository:**
 Use the command below to clone the repository.
 ```bash
-git clone https://github.com/Auromix/ROS-LLM.git
+git clone https://github.com/Nichaojun/LM-RL.git
 ```
 **2. Install Dependencies:**
 ```bash
-bash dependencies_install.sh
+bash LM-RL/dependencies_install.sh
 ```
 **3. Configure OpenAI Settings:**
 If you don't have an OpenAI API key, you can obtain one from [OpenAI Platform](https://platform.openai.com). Use the script below to configure your OpenAI API key.
 ```bash
-bash config_openai_api_key.sh
+bash LM-RL/config_openai_api_key.sh
 ```
 
 **4. Configure OpenAI Whisper Settings (Optional):**
