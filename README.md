@@ -1,6 +1,7 @@
 # LM-RL
 
 :dizzy: **Large Model and Reinforcement Learning Integration for Autonomous Robotic Navigation**
+
 :wrench: Realized in ROS Gazebo simulator with Ubuntu 20.04, ROS noetic, and Pytorch. 
 
 # Basic Dependency Installation
