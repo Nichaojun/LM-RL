@@ -99,6 +99,6 @@ colcon build --symlink-install
 
 **6. Run the Demo:**
 ```bash
-source LM-RL/LMRL-LLM/
+source setup.bash
 python test/test_json_schema.py
 ```
