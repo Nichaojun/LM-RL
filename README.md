@@ -44,7 +44,6 @@
 ## 🔥Performance in our own env
 | ![space-1.jpg](https://github.com/Nichaojun/LM-RL/blob/main/LMRL-picture/img.png)                  |
 |:---------------------------------------------------------------------------------------------------|
-| **                                                                                                 | *Performance comparisons with state-of-the-art methods on the RTTS*     |
 
 
 ## 👀Demo for controlling turtlesim
