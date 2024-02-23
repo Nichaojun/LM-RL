@@ -33,21 +33,13 @@
 
 
 ## ✨Weights for RL
-| Weights                                      | Links                                              |
-|--------------------------------------------- |----------------------------------------------------|
-| **DQN**                                      | [DQN](http://host.robots.ox.ac.uk/pascal/VOC/)    |
-|                                              |                                                    |
-| **DDPG**                                     | [DDPG](http://host.robots.ox.ac.uk/pascal/VOC/)   |
-|                                              |                                                    |
-| **PPO**                                      | [PPO](http://host.robots.ox.ac.uk/pascal/VOC/)    |
-|                                              |                                                    |
-| **SAC**                                      | [SAC](http://host.robots.ox.ac.uk/pascal/VOC/)    |
-|                                              |                                                    |
-| **GTRL**                                     | [GTRL](http://host.robots.ox.ac.uk/pascal/VOC/)   |
-|                                              |                                                    |
-| **Multimodal CLI**                           | [Multimodal CLI](http://host.robots.ox.ac.uk/pascal/VOC/) |
-|                                              |                                                    |
-| **GDAE**                                     | [GDAE](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset) |
+| Weights          | Links                                                          | Weights          | Links                                                                 |
+|------------------|----------------------------------------------------------------|------------------|-----------------------------------------------------------------------|
+| **DQN**          | [DQN](http://host.robots.ox.ac.uk/pascal/VOC/)                 | **DDPG**         | [DDPG](http://host.robots.ox.ac.uk/pascal/VOC/)                       |
+| **PPO**          | [PPO](http://host.robots.ox.ac.uk/pascal/VOC/)                 | **SAC**          | [SAC](http://host.robots.ox.ac.uk/pascal/VOC/)                        |
+| **GTRL**         | [GTRL](http://host.robots.ox.ac.uk/pascal/VOC/)                | **Multimodal CLI** | [Multimodal CLI](http://host.robots.ox.ac.uk/pascal/VOC/)             |
+| **GDAE**         | [GDAE](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset) |                  |                                                                       |
+
 
 
 
