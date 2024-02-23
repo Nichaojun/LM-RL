@@ -1,11 +1,15 @@
 # ⭐ *Large Model and Reinforcement Learning Integration for Autonomous Robotic Navigation*
 
 ## 🔥Feature
-Advanced Reinforcement Learning Algorithms: The framework includes classic algorithms like DQN, DDPG, PPO, SAC, as well as recent advancements such as GTRL, Multimodal CLI, GDAE, tailored for goal-driven navigation tasks in reinforcement learning.
-ROS Integration: Seamlessly interacts with the Robot Operating System (ROS) to enable comprehensive robotic control.
-Leverages LLM and VFM: Harnesses the power of Large Language Models (LLM) and Vision-based Feature Models (VFM) for advanced decision-making and efficient task management.
-Utilizes LLM-based systems: Employs LLM-based systems for tasks like motion and navigation, interpreting language model outputs for precise control.
-Creates interactive robot control experiences swiftly: Develops interactive robot control experiences rapidly, often completing setups in under ten minutes.
+🔥Advanced Reinforcement Learning Algorithms: The framework includes classic algorithms like DQN, DDPG, PPO, SAC, as well as recent advancements such as GTRL, Multimodal CLI, GDAE, tailored for goal-driven navigation tasks in reinforcement learning.
+
+🔥ROS Integration: Seamlessly interacts with the Robot Operating System (ROS) to enable comprehensive robotic control.
+
+🔥Leverages LLM and VFM: Harnesses the power of Large Language Models (LLM) and Vision-based Feature Models (VFM) for advanced decision-making and efficient task management.
+
+🔥Utilizes LLM-based systems: Employs LLM-based systems for tasks like motion and navigation, interpreting language model outputs for precise control.
+
+🔥Creates interactive robot control experiences swiftly: Develops interactive robot control experiences rapidly, often completing setups in under ten minutes.
 
 ## 📆✅Update
 | Date       | Updates                                                                                                                         | Address |
