@@ -41,6 +41,12 @@
 |      **GDAE**    | [GDAE](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Dataset) |                   |                                                             |
 
 
+## 🔥Performance in our own env
+| ![space-1.jpg](https://github.com/Nichaojun/LM-RL/blob/main/LMRL-picture/img.png)                   |
+|:----------------------------------------------------------------------------------------------------|
+| *Performance comparisons with state-of-the-art methods on the Dior\_Foggy and Dior\_Severe\_Foggy.* | *Performance comparisons with state-of-the-art methods on the RTTS*     |
+
+
 ## 👀Demo for controlling turtlesim
 
 Prompt:
@@ -58,14 +64,3 @@ Move turtle1 left by 2, then rotate 180 degrees, and move back to (5, 5). Finall
 | ![space-1.jpg](https://github.com/Nichaojun/LM-RL/blob/main/LMRL-picture/4t4.png)                                                                                                                             |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *RGB images from the fisheye camera stacked for the most recent four frames. The top pair of figures show the raw RGB images, whereas those on the bottom display the images after being processed by SAM* |
-
-
-## ⏳AFM and DG-Head
-| ![space-1.jpg](https://github.com/Nichaojun/Feature-Adaptive-YOLO/blob/master/picture/12.png) |    ![space-1.jpg](https://github.com/Nichaojun/Feature-Adaptive-YOLO/blob/master/picture/3.png)     |
-|:----------------------------------------------------------------------------------------------|----------------------------------- |
-| *The structure of Adaptive Filters*                                                           |            *The structure of DG-Head.*                   |
-
-## 🔥Result
-| ![space-1.jpg](https://github.com/Nichaojun/Feature-Adaptive-YOLO/blob/master/picture/t3.png)       |
-|:----------------------------------------------------------------------------------------------------|
-| *Performance comparisons with state-of-the-art methods on the Dior\_Foggy and Dior\_Severe\_Foggy.* | *Performance comparisons with state-of-the-art methods on the RTTS*     |
