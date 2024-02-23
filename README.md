@@ -23,6 +23,11 @@
 
 
 ## 📆✅Future Plan
+- **Agent Mechanism**: Adding an agent mechanism allows long sequence tasks to be well divided.
+
+- **Feedback Channel from External Functions**: We plan to add a feedback mechanism for the robot to receive information from external functions. This would significantly assist model-based decision-making processes.
+
+- **Navigation Interface**: A new interface for robot navigation is also in the pipeline. It will enable the utilization of this framework in navigation-oriented tasks.
 
 
 
