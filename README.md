@@ -69,6 +69,12 @@ python LMRL-VFM/demo.py
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *RGB images from the fisheye camera stacked for the most recent four frames. The top pair of figures show the raw RGB images, whereas those on the bottom display the images after being processed by SAM* |
 
+## 👀Demo for image-caption
+
+| Image                                                                           |  Caption |
+|:--------------------------------------------------------------------------------|----------|
+| ![space-1.jpg](https://github.com/Nichaojun/LM-RL/blob/main/LMRL-picture/4.png) |  3D office scene with wooden decor. Central desk, surrounded by a black chair, and a white rectangular table on one side, another chair on the other. |
+| ![space-1.jpg](https://github.com/Nichaojun/LM-RL/blob/main/LMRL-picture/1.png) |The image portrays a 3D virtual scene, centered around a circular white object on a grey surface. A figure dressed in green stands behind the white object. |
 
 ## 🚀 Quickstart Guide
 Follow the instructions below to set up:
