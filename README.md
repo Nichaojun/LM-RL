@@ -50,7 +50,7 @@
 
 Prompt:
 ```bash
-python LMRL-LLM/demo.py
+python LMRL-LLM/demo-tur.py
 ```
 ```shell
 Move turtle1 left by 2, then rotate 180 degrees, and move back to (5, 5). Finally, spawn a turtle named turtle2 at (10, 10) and remove turtle1.
@@ -62,7 +62,7 @@ Move turtle1 left by 2, then rotate 180 degrees, and move back to (5, 5). Finall
 
 ## 👀Demo for Segment anything model
 ```bash
-python LMRL-VFM/demo.py
+python LMRL-VFM/demo-seg.py
 ```
 
 | ![space-1.jpg](https://github.com/Nichaojun/LM-RL/blob/main/LMRL-picture/4t4.png)                                                                                                                             |
@@ -70,6 +70,11 @@ python LMRL-VFM/demo.py
 | *RGB images from the fisheye camera stacked for the most recent four frames. The top pair of figures show the raw RGB images, whereas those on the bottom display the images after being processed by SAM* |
 
 ## 👀Demo for image-caption
+
+
+```bash
+python LMRL-VFM/demo-cap.py
+```
 
 | Image                                                                           |  Caption |
 |:--------------------------------------------------------------------------------|----------|
