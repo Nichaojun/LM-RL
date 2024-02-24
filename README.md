@@ -101,3 +101,12 @@ colcon build --symlink-install
 source setup.bash
 python test/test_json_schema.py
 ```
+
+## 🔭Reference
+https://github.com/dennybritz/reinforcement-learning
+
+https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
+https://github.com/sfujim/TD3
+
+https://github.com/google-deepmind/dqn
