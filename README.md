@@ -49,7 +49,9 @@
 ## 👀Demo for controlling turtlesim
 
 Prompt:
-
+```bash
+python LMRL-LLM/demo.py
+```
 ```shell
 Move turtle1 left by 2, then rotate 180 degrees, and move back to (5, 5). Finally, spawn a turtle named turtle2 at (10, 10) and remove turtle1.
 ```
@@ -59,6 +61,9 @@ Move turtle1 left by 2, then rotate 180 degrees, and move back to (5, 5). Finall
 </p>
 
 ## 👀Demo for Segment anything model
+```bash
+python LMRL-VFM/demo.py
+```
 
 | ![space-1.jpg](https://github.com/Nichaojun/LM-RL/blob/main/LMRL-picture/4t4.png)                                                                                                                             |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
